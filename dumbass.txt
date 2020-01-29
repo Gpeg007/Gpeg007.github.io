@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+    <h1>I EAT ASS</h1>
+    <p>Nobody is better than me at eating that sweet, forbidden fruit.</p><br>
+    Catch my drift, or catch these hands. #playerh8r</p>
+    <a href"https://www.linkedin.com/in/gregory-pevey-a56869121"><br>
+    Holla at YA BOI!</a>
+</body>
+
+</html>
